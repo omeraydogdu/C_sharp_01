@@ -1,0 +1,5 @@
+C:\Users\omera\Desktop\C#\Donguler\Donguler\obj\Debug\net6.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\omera\Desktop\C#\Donguler\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omera\Desktop\C#\Donguler\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\omera\Desktop\C#\Donguler\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+C:\Users\omera\Desktop\C#\Donguler\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
